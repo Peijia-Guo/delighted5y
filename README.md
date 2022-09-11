@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @delighted5y
-- 👀 I’m interested in algorithms and Machine Learning.
+- 👋 Hi, I’m Peijia Guo.
+- 👀 I’m interested in algorithms and machine learning.
 - 🌱 I’m currently learning HTML, CSS, Javascript and Python Flask.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
